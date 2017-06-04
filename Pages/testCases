@@ -1,0 +1,32 @@
+1. Open login page
+2. Wait for log in button to exist
+3. Find user name field
+4. Input user name
+5. Find user password 
+6. Input user password
+7. Find log in button
+8. Click on login button
+9. Wait canvas tag for exist
+10. Open Analyics page (get + url OR click on the link)
+11. Wait page header to exist ("Analytics" div)
+12. Find New widget button (find text "button" = new widget)
+13. Click on new widget button
+14. Wait new widget modal window header to exist
+15. Find Title field
+16. Input title value
+17. Find datasource field
+18. Open drop-down list
+19. Click "campaign analytics" span
+20. Open chart type drop-down
+21  Click bar chart
+22. Open time range drop-down
+23. Click "yesterday"
+24. -- dimensions = rule status
+25. -- measurement = opened notifications
+26. click on Add button
+27. Wait for n min (wait widget to be saved)
+
+Expected
+1. 
+2. 
+
